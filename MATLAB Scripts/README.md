@@ -103,3 +103,7 @@ The simulink Model interfaces with a Robot Operating System (ROS) environment, r
 
 *4. Motion Planning :*<br>
       PathFollowingWithObstacleAvoidanceInSimulink.mlx
+
+
+https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/assets/108211492/2fc75717-ea71-44f8-bb29-8db2674aa7eb
+
