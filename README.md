@@ -80,7 +80,6 @@ Contributors :
 - [Aditya Suwalka](https://github.com/git-suwalkaaditya)
 - [Tejal Uplenchwar](https://github.com/Tejallll)
 
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
@@ -161,6 +160,8 @@ Please refer to the detailed installation instructions provided in the the READM
 4. Create and download the .pgm file of the map of the world.
 5. Open Matlab Scripts and establish the connection between the two systems to set up co-simulation.
 6. Run the .mlx files in order to view the results
+   
+https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/assets/108211492/6de0ee97-a1fb-4877-9962-410aa43c251b
 
 
 
