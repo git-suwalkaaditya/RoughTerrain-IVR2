@@ -1,3 +1,5 @@
+
+
 # MATLAB
 This project involves using Mathworks softwares for implementing a robust and efficient rough terrain navigation system using the Navigation, Robotics System, Image Processing, Automated Driving and ROS Toolbox in MATLAB. This project aims to enable autonomous robots to navigate challenging terrains, such as rocky surfaces, uneven landscapes, and rugged environments.
 
@@ -45,6 +47,8 @@ MATLAB was used to receive sensor data from the Gazebo bot. This data was later 
 
 *rosbag file was recorded in the linux system and ROSbagfile viewer app(R2023a) was used to visualise the recorded data*
 
+
+https://github.com/git-suwalkaaditya/RoughTerrain-IVR2/assets/108211492/a81afa7b-d3ac-43a7-9534-a46306feaea1
 ## Global Path Planners :
 After thorough experimentation with various path planners, including RRT, RRT*, A*, and Hybrid A*, we present the results of our tests.<br>
 
